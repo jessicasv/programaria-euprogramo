@@ -1,4 +1,4 @@
-# Curso Online PrograMaria Eu Progr{amo}
+# Curso Online PrograMaria Eu Progr{amo} Turma 12
 Curso de primeiros passos no FrontEnd realizado em Setembro de 2021 
 
 **O Curso Online Eu ProgrAmo possui uma carga horária de 16 horas/aulas**
